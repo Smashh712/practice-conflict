@@ -1,5 +1,5 @@
 # practice-conflict
 
-A
 B
 D
+E
